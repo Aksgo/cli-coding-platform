@@ -12,7 +12,7 @@ def authMenu():
     databaseCreated=False
     print("-----------------WELCOME to Code Manch-------------------")
     
-    sqlp='admin123'##system's sql password
+    sqlp='please enter you MYSQL password here'##system's sql password
     try:
         AdminAccess.installer(sqlp)
     except Exception as e:
