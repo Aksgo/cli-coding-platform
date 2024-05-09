@@ -25,7 +25,7 @@
 </table>
 <br>
 <i>NOTE: To run the project:</i><ol>
-<li>Place your MySQL password in tha variable 'sqlp'</li>
+<li>Place your MySQL password in tha variable 'sqlp' in AuthMenu.py</li>
 <li>Run the __init__.py file</li>
 </ol>
 
